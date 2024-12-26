@@ -2,7 +2,7 @@
 
 Matrix Factorization Implementation with Python.
 
-- Post Link: [Bruce Kim's Tech Blog - [ML] Matrix Factorization(MF)](https://devbruce.github.io/machinelearning/ml-18-matrix_factorization/)
+- Post Link: [Bruce Kim's Tech Blog - [ML] Matrix Factorization(MF)](https://devbruce.github.io/posts/ml-18-matrix_factorization)
 
 <br>
 
